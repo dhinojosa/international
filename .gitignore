@@ -5,3 +5,5 @@ target
 *.sw?
 *.iml
 *.ips
+*.ipr
+*.iws
